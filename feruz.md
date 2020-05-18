@@ -2,4 +2,4 @@
 - Feruz Teame
 - Hardworking member
 ---
-[<<Boam](./README.md) [Miroslav>>](./miroslav.md.md)
+[<<Boam](./README.md) [Miroslav>>](./miroslav.md)

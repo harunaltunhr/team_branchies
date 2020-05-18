@@ -2,7 +2,7 @@
 ## Our teammates are;
 - [Boam](./boam.md)
 - [Feruz](./feruz.md)
-- Miroslav
+- [Miroslav](./miroslav.md)
 - Murielle
 - Yana
 - Harun

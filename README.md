@@ -1,6 +1,6 @@
 # Coding with SkyBlue
 ## Our teammates are;
-- Boam
+- [Boam](./boam.md)
 - Feruz
 - Miroslav
 - Murielle
